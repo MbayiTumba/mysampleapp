@@ -1,7 +1,6 @@
 'use strict';
 
+let fname = ['James', 'Jordan'],
+	lname = ['Franklin', 'Hanks'];
 
-let fname = ["kevin", "James", "Jordan"],
-lname = ["Peters", "Franklin", "Hanks"]
-
-console.log(lname)
+console.log(lname);
